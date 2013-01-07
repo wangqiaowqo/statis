@@ -11,7 +11,7 @@ public class LogCallback implements AsyncMethodCallback {
    }
 
 
-   // 处理服务返回的结果值
+   // 处理服务返回的结果值 test commit
    @Override
    public void onComplete(Object response) {
        this.response = response;
