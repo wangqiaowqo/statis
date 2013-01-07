@@ -1,4 +1,0 @@
-namespace java com.xiaonei.discoveryLog 
- service Log{ 
-  i32 log(1:string category,2:string message) 
- }
