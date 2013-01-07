@@ -10,6 +10,7 @@ public class LogCallback implements AsyncMethodCallback {
        return response;
    }
 
+
    // 处理服务返回的结果值
    @Override
    public void onComplete(Object response) {
